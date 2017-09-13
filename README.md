@@ -1,6 +1,5 @@
 # Weather Web App
 
-### Getting Started
 
 
 A weather Web App Built using ReactJs
